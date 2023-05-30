@@ -1,72 +1,73 @@
-{
-"Name":  "Gemma's Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders Male & Female",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/splash.jpg"
-"Population": 20,
-"Latitude": 11.7731901,
-"Longitute":124.88881763
-}
-{
-"Name":  "Grata Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders 8 Males & 8 Females (kindly reach out Mrs. Grata for inquire",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Grata.jpg"
-"Population": 15,
-"Latitude": 11.7719412,
-"Longitute":124.8855742
-}
-{
-"Name":  "Pink Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar Call of Text: Smart 0907-347-2276 - TM 0955-002-6097",
-"Details": "We Accept Boarders",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Pink.jpg"
-"Population": 17,
-"Latitude": 11.7716684,
-"Longitute":124.8859930
-}
-{
-"Name":  "Ocenar Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Ocenar.jpg"
-"Latitude": 11.771829,
-"Longitute":124.8860101
-}
-{
-"Name":  "Erick Jao Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders Males & Females, for inquire Call or Text: 09561158374",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/ErickJao.jpg"
-"Population": 40,
-"Latitude": 11.7719153,
-"Longitute":124.8863266
-}
 [
-{
-"Name":  "Ella And Roel Boarding House", 
-"Location": "P-2 Yangson St. Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders Males & Females",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Ella%20and%20Roel.jpg"
-"Population": 25,
-"Latitude": 11.7718339,
-"Longitute":124.8865613
-}
-{
-"Name":  "Rueda Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders Lady Boarders, for enquire Call or Text: TM: 0926-380-4997 - TNT 0910-741-1169 or Fb page: Rueda Boarding House ",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Rueda.jpg"
-"Population": 13,
-"Latitude": 11.7718759,
-"Longitute":124.8869053
-}
-{
-"Name":  "Richelle Boarding House", 
-"Location": "Brgy. Guidapunan Catbalogan City, Samar",
-"Details": "We Accept Boarders",
-"Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Richelle.jpg"
-"Population": 14,
-"Latitude": 11.7719478,
-"Longitute":124.8870723
-}
+  {
+    "Name": "Gemma's Boarding House",
+    "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+    "Details": "We Accept Boarders Male & Female",
+    "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/splash.jpg",
+    "Population": 20,
+    "Latitude": 11.7731901,
+    "Longitute": 124.88881763
+  },
+  {
+    "Name": "Grata Boarding House",
+    "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+    "Details": "We Accept Boarders 8 Males & 8 Females (kindly reach out Mrs. Grata for inquire",
+    "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Grata.jpg",
+    "Population": 15,
+    "Latitude": 11.7719412,
+    "Longitute": 124.8855742
+  },
+  {
+    "Name": "Pink Boarding House",
+    "Location": "Brgy. Guidapunan Catbalogan City, Samar Call of Text: Smart 0907-347-2276 - TM 0955-002-6097",
+    "Details": "We Accept Boarders",
+    "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Pink.jpg",
+    "Population": 17,
+    "Latitude": 11.7716684,
+    "Longitute": 124.8859930
+  },
+  {
+    "Name": "Ocenar Boarding House",
+    "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+    "Details": "We Accept Boarders",
+    "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Ocenar.jpg",
+    "Latitude": 11.771829,
+    "Longitute": 124.8860101
+  },
+  {
+    "Name": "Erick Jao Boarding House",
+    "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+    "Details": "We Accept Boarders Males & Females, for inquire Call or Text: 09561158374",
+    "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/ErickJao.jpg",
+    "Population": 40,
+    "Latitude": 11.7719153,
+    "Longitute": 124.8863266
+  },
+  {
+      "Name": "Ella And Roel Boarding House",
+      "Location": "P-2 Yangson St. Brgy. Guidapunan Catbalogan City, Samar",
+      "Details": "We Accept Boarders Males & Females",
+      "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Ella%20and%20Roel.jpg",
+      "Population": 25,
+      "Latitude": 11.7718339,
+      "Longitute": 124.8865613
+    },
+    {
+      "Name": "Rueda Boarding House",
+      "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+      "Details": "We Accept Boarders Lady Boarders, for enquire Call or Text: TM: 0926-380-4997 - TNT 0910-741-1169 or Fb page: Rueda Boarding House ",
+      "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Rueda.jpg",
+      "Population": 13,
+      "Latitude": 11.7718759,
+      "Longitute": 124.8869053
+    },
+    {
+      "Name": "Richelle Boarding House",
+      "Location": "Brgy. Guidapunan Catbalogan City, Samar",
+      "Details": "We Accept Boarders",
+      "Image": "https://github.com/Ck20175446/Ck20175446/blob/1cccd17a5a564644ebbc52853378dad1770bdfdb/Richelle.jpg",
+      "Population": 14,
+      "Latitude": 11.7719478,
+      "Longitute": 124.8870723
+    }
+  ]
